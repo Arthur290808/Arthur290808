@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning Backend Development with Node.js and Databases
 - 😄 Pronouns: He/him
-- ⚡ Languages: HTML, CSS, React, Python
+- ⚡ Languages: HTML, CSS, React, Python, Node.js, JavaScript
 
 <!---
 Arthur290808/Arthur290808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
